@@ -22,6 +22,10 @@ a:hover {
     float: right;
 }
 
+p {
+    text-align: justify;
+}
+
 .forras {
     font-size: 10px;
     font-style: italic;
