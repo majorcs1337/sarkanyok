@@ -8,6 +8,10 @@ a {
     text-decoration: none;
 }
 
+body {
+    background-image: url(hatterkep.jpg);
+}
+
 a:hover {
     color: red;
 }
